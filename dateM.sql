@@ -1,0 +1,1 @@
+SELECT * FROM Employee WHERE DAY(birthday) % 2 = 1; 
